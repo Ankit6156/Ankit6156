@@ -11,10 +11,10 @@
   <a href="https://github.com/Ankit6156" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ankitsingh834041 target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/your_resume_link_here" target="_blank">
+  <a href="https://drive.google.com/file/d/1A4peZ5dyU5K9Y2HUCwM59YRoFSI_mCbL/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-blue?style=for-the-badge" />
   </a>
 </p>
