@@ -1,6 +1,15 @@
-<h1 align="center">👋 Hi, I'm Ankit Kumar</h1>
-<h3 align="center">Java Developer | Frontend Developer | Backend Developer | Full-Stack Enthusiast</h3>
+<!-- Beautiful GitHub Profile README by ChatGPT (Customized for Ankit Kumar) -->
 
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Ankit+Kumar!;💻+Java+Developer;🌐+Frontend+Developer;⚙️+Backend+Developer;🚀+Full-Stack+Developer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Passionate Problem Solver | Always Learning | Open to Opportunities</h3>
+
+---
+
+<!-- Social Buttons -->
 <p align="center">
   <a href="mailto:ankitsingh8340496385@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -11,10 +20,13 @@
   <a href="https://github.com/Ankit6156" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/ankitsingh834041 target="_blank">
+  <a href="https://www.hackerrank.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1A4peZ5dyU5K9Y2HUCwM59YRoFSI_mCbL/view?usp=drive_link" target="_blank">
+  <a href="https://ankit6156.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge" />
+  </a>
+  <a href="https://drive.google.com/your_resume_link_here" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-blue?style=for-the-badge" />
   </a>
 </p>
@@ -22,14 +34,19 @@
 ---
 
 ## 💫 About Me
+
 🌍 **Location:** Bangalore, Karnataka, India  
 📧 **Email:** [ankitsingh8340496385@gmail.com](mailto:ankitsingh8340496385@gmail.com)  
 📞 **Contact:** +91-8340496385  
 
-I’m a passionate and detail-oriented **Java Developer**, **Frontend Developer**, and **Backend Developer** with a strong foundation in full-stack web development.  
-Proficient in **Java**, **Spring Boot**, **REST APIs**, and modern frontend technologies like **React.js** and **Angular**.  
-I love solving complex problems, optimizing performance, and creating user-friendly web applications with clean, maintainable code.  
-💡 Always eager to learn new technologies, collaborate with teams, and contribute to impactful projects.  
+Hi there! I’m **Ankit Kumar**, a passionate and detail-oriented **Full-Stack Developer** specializing in **Java**, **Frontend**, and **Backend** technologies.  
+I enjoy designing and building web applications that are efficient, elegant, and user-friendly.  
+My focus is on writing clean, maintainable code and learning new technologies that make development exciting and efficient.  
+
+💡 **Current Focus:**  
+- Building end-to-end full-stack projects with Java, Spring Boot, and React  
+- Learning deeper concepts of **Microservices** & **Cloud Deployment**  
+- Contributing to open-source and collaborating with tech communities  
 
 ---
 
@@ -37,48 +54,63 @@ I love solving complex problems, optimizing performance, and creating user-frien
 
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| 💻 Programming | Java, Python (Basic), JavaScript |
-| 🌐 Frontend | HTML5, CSS3, JavaScript, React.js, Angular |
-| ⚙️ Backend | Java, REST APIs, JDBC, Servlets, JSP, Spring Boot (familiar), Hibernate (familiar) |
-| 🗄️ Database | MySQL |
-| 🧩 Tools & Platforms | Git, GitHub, Postman, Maven, Eclipse, VS Code |
-| 🧠 Concepts | Data Structures & Algorithms, OOP, Agile, Microservices |
+| 💻 **Programming** | Java, JavaScript, Python (Basic) |
+| 🌐 **Frontend** | HTML5, CSS3, JavaScript, React.js, Angular |
+| ⚙️ **Backend** | Java, REST APIs, JDBC, Servlets, JSP, Spring Boot (familiar), Hibernate (familiar) |
+| 🗄️ **Database** | MySQL |
+| 🧩 **Tools & Platforms** | Git, GitHub, Postman, Maven, Eclipse, VS Code |
+| 🧠 **Concepts** | Data Structures & Algorithms, OOP, Agile, Microservices |
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering (CSE)**  
-📍 Excel Engineering College, Namakkal, Tamil Nadu  
-📅 Aug 2021 – May 2025  
+🎓 **Bachelor of Engineering (CSE)**  
+📍 *Excel Engineering College*, Namakkal, Tamil Nadu  
+📅 *Aug 2021 – May 2025*  
 🎯 **CGPA:** 7.5  
 
-**Intermediate (I.Sc)** – Ganga Singh College, Chapra, Bihar  
-📅 May 2019 – Apr 2021  
+🏫 **Intermediate (I.Sc)** — Ganga Singh College, Chapra, Bihar  
+📅 *May 2019 – Apr 2021*  
 
-**Matriculation** – High School Marhowrah, Bihar  
-📅 May 2018 – Apr 2019  
+🏫 **Matriculation** — High School Marhowrah, Bihar  
+📅 *May 2018 – Apr 2019*  
 
 ---
 
 ## 💼 Professional Summary
-Aspiring and detail-oriented **Java Developer** and **Full Stack Software Engineer** with hands-on experience in:
-- Building RESTful APIs and backend logic in Java  
-- Developing responsive frontends using React.js and Angular  
-- Integrating frontend and backend for seamless user experiences  
-- Applying OOP and DSA principles to optimize performance  
-- Working effectively in Agile environments and cross-functional teams  
 
-A fast learner with a growth mindset, strong problem-solving ability, and a drive to continuously improve.  
+💻 **Full-Stack Developer** experienced in:
+- Designing and developing dynamic web applications  
+- Implementing RESTful APIs using **Java**  
+- Building responsive UIs with **React.js** and **Angular**  
+- Applying **OOP** and **DSA** principles for clean, efficient code  
+- Working collaboratively in Agile environments  
+
+🚀 Fast learner with a growth mindset, always exploring new technologies and frameworks to build innovative solutions.
 
 ---
 
 ## 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit6156&show_icons=true&theme=radical" alt="Ankit's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6156&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit6156&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ankit6156&theme=tokyonight" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit6156&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|----------|--------------|-------------|------|
+| 🧮 **Task Manager API** | REST API for managing daily tasks | Java, Spring Boot, MySQL | [View Repo](https://github.com/Ankit6156/task-api) |
+| 💬 **Chat App** | Real-time chat using WebSockets | Node.js, React.js, Socket.io | [View Repo](https://github.com/Ankit6156/chat-app) |
+| 🌐 **Portfolio Website** | Personal portfolio built to showcase my skills | HTML, CSS, JavaScript | [Live Demo](https://ankit6156.github.io) |
 
 ---
 
@@ -94,6 +126,9 @@ A fast learner with a growth mindset, strong problem-solving ability, and a driv
   <a href="https://github.com/Ankit6156" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://ankit6156.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge" />
+  </a>
   <a href="https://drive.google.com/your_resume_link_here" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge" />
   </a>
@@ -101,5 +136,7 @@ A fast learner with a growth mindset, strong problem-solving ability, and a driv
 
 ---
 
-⭐️ **“Code. Learn. Build. Repeat.”**  
-> _"Java Developer | Frontend & Backend Developer | Passionate Problem Solver | Open to Opportunities"_
+<h3 align="center">⭐ “Code. Learn. Build. Repeat.” ⭐</h3>
+<p align="center">
+  <i>“Java Developer | Frontend & Backend Developer | Passionate Problem Solver | Full-Stack Enthusiast”</i>
+</p>
