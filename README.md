@@ -1,8 +1,12 @@
 <!-- Beautiful GitHub Profile README by ChatGPT (Customized for Ankit Kumar) -->
 
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Banner" />
+</p>
+
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Ankit+Kumar!;💻+Java+Developer;🌐+Frontend+Developer;⚙️+Backend+Developer;🚀+Full-Stack+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ankit+Kumar!;💻+Java+Developer;🌐+Frontend+Developer;⚙️+Backend+Developer;🚀+Full-Stack+Developer"
     alt="Typing SVG"
   />
 </h1>
