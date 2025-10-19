@@ -1,15 +1,16 @@
-<!-- Beautiful GitHub Profile README by ChatGPT (Customized for Ankit Kumar) -->
-<!-- Beautiful GitHub Profile README by ChatGPT (Customized for Ankit Kumar) -->
+<!-- 🌟 Beautiful GitHub Profile README by ChatGPT (Customized for Ankit Kumar) -->
+
+<!-- 🖼️ Header with Animated Typing SVG -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Ankit+Kumar!;💻+Java+Developer;🌐+Frontend+Developer;⚙️+Backend+Developer;🚀+Full-Stack+Developer"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Ankit+Kumar!;🚀+Full-Stack+Developer;💻+Java+Developer;🌐+Frontend+Developer;⚙️+Backend+Developer&background=0A192F"
+    alt="Typing SVG - Ankit Kumar"
   />
 </h1>
 
-<h3 align="center">🚀 Passionate Problem Solver | Always Learning | Open to Opportunities</h3>
+<h3 align="center">💡 I’m here to turn ideas into reality — stay connected with me! 😊💻</h3>
 
-<!-- Social Buttons -->
+<!-- 🌐 Social Buttons -->
 <p align="center">
   <a href="mailto:ankitsingh8340496385@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -44,9 +45,9 @@ I enjoy designing and building web applications that are efficient, elegant, and
 My focus is on writing clean, maintainable code and learning new technologies that make development exciting and efficient.  
 
 💡 **Current Focus:**  
-- Building end-to-end full-stack projects with Java, Spring Boot, and React  
+- Building end-to-end full-stack projects with **Java**, **Spring Boot**, and **React**  
 - Learning deeper concepts of **Microservices** & **Cloud Deployment**  
-- Contributing to open-source and collaborating with tech communities  
+- Contributing to **open-source** and collaborating with tech communities  
 
 ---
 
@@ -85,7 +86,7 @@ My focus is on writing clean, maintainable code and learning new technologies th
 - Implementing RESTful APIs using **Java**  
 - Building responsive UIs with **React.js** and **Angular**  
 - Applying **OOP** and **DSA** principles for clean, efficient code  
-- Working collaboratively in Agile environments  
+- Working collaboratively in **Agile** environments  
 
 🚀 Fast learner with a growth mindset, always exploring new technologies and frameworks to build innovative solutions.
 
@@ -138,5 +139,5 @@ My focus is on writing clean, maintainable code and learning new technologies th
 
 <h3 align="center">⭐ “Code. Learn. Build. Repeat.” ⭐</h3>
 <p align="center">
-  <i>“Java Developer | Frontend & Backend Developer | Passionate Problem Solver | Full-Stack Enthusiast”</i>
+  <i>“🚀 Full-Stack Developer | 💻 Java Developer | 🌐 Frontend & Backend Developer | Passionate Problem Solver”</i>
 </p>
