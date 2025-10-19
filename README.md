@@ -15,19 +15,19 @@
   <a href="mailto:ankitsingh8340496385@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ankit6156" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-kumar-908409284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ankit6156" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ankitsingh834041" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://ankit6156.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/your_resume_link_here" target="_blank">
+  <a href="https://drive.google.com/file/d/1A4peZ5dyU5K9Y2HUCwM59YRoFSI_mCbL/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-blue?style=for-the-badge" />
   </a>
 </p>
@@ -46,7 +46,8 @@ My focus is on writing clean, maintainable code and learning new technologies th
 
 💡 **Current Focus:**  
 - Building end-to-end full-stack projects with **Java**, **Spring Boot**, and **React**  
-- Learning deeper concepts of **Microservices** & **Cloud Deployment**  
+- Strengthening **Frontend** skills with **React.js**, **Angular**, and UI/UX best practices
+- Enhancing **Backend** skills with **Java**, **Spring Boot**, **REST APIs**, and database management  
 - Contributing to **open-source** and collaborating with tech communities  
 
 ---
@@ -118,7 +119,7 @@ My focus is on writing clean, maintainable code and learning new technologies th
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit6156" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-kumar-908409284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ankitsingh8340496385@gmail.com" target="_blank">
@@ -130,7 +131,7 @@ My focus is on writing clean, maintainable code and learning new technologies th
   <a href="https://ankit6156.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/your_resume_link_here" target="_blank">
+  <a href="https://drive.google.com/file/d/1A4peZ5dyU5K9Y2HUCwM59YRoFSI_mCbL/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge" />
   </a>
 </p>
