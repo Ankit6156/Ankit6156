@@ -131,8 +131,14 @@ My focus is on writing clean, maintainable code and learning new technologies th
   <a href="https://ankit6156.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1A4peZ5dyU5K9Y2HUCwM59YRoFSI_mCbL/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge" />
+  <a href="https://www.instagram.com/royal_ankitsingh?igsh=NGRwcnJ3Ymg0eW9q" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/16pmmR2RJM/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://x.com/AnkitKumar84681?t=DUI1Cd9cGAL45ofQ1OtvLw&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
