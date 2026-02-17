@@ -58,7 +58,7 @@ My focus is on writing clean, maintainable code and learning new technologies th
 |-----------|----------------------|
 | 💻 **Programming** | Java, JavaScript, Python (Basic) |
 | 🌐 **Frontend** | HTML5, CSS3, JavaScript, React.js, Angular |
-| ⚙️ **Backend** | Java, REST APIs, JDBC, Servlets, JSP, Spring Boot (familiar), Hibernate (familiar) |
+| ⚙️ **Backend** | Java, REST APIs, JDBC, Servlets, JSP, Spring Boot , Hibernate, SpringSecurity, JWT |
 | 🗄️ **Database** | MySQL |
 | 🧩 **Tools & Platforms** | Git, GitHub, Postman, Maven, Eclipse, VS Code |
 | 🧠 **Concepts** | Data Structures & Algorithms, OOP, Agile, Microservices |
