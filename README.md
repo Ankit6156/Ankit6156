@@ -24,6 +24,9 @@
   <a href="https://www.hackerrank.com/profile/ankitsingh834041" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Ankit-8340/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
   <a href="https://ankit6156.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge" />
   </a>
