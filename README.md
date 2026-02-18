@@ -144,14 +144,26 @@ My focus is on writing clean, maintainable code and learning new technologies th
 
 ---
 
+## 📊 GitHub Stats
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit6156&show_icons=true&theme=tokyonight"/>
+</p>
 
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| 🧮 **Task Manager API** | REST API for managing daily tasks | Java, Spring Boot, MySQL | [View Repo](https://github.com/Ankit6156/task-api) |
-| 💬 **Chat App** | Real-time chat using WebSockets | Node.js, React.js, Socket.io | [View Repo](https://github.com/Ankit6156/chat-app) |
-| 🌐 **Portfolio Website** | Personal portfolio built to showcase my skills | HTML, CSS, JavaScript | [Live Demo](https://ankit6156.github.io) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6156&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit6156&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
+- LeetCode: https://leetcode.com/your-username/
+- HackerRank: https://www.hackerrank.com/profile/ankitsingh834041
 
 ---
 
