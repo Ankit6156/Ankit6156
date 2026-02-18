@@ -54,20 +54,64 @@ My focus is on writing clean, maintainable code and learning new technologies th
 - Contributing to **open-source** and collaborating with tech communities  
 
 ---
+## 🛠️ Tech Stack
 
-## 🧰 Technical Skills
-
-| Category | Tools / Technologies |
-|-----------|----------------------|
-| 💻 **Programming** | Java, JavaScript, Python (Basic) |
-| 🌐 **Frontend** | HTML5, CSS3, JavaScript, React.js, Angular |
-| ⚙️ **Backend** | Java, REST APIs, JDBC, Servlets, JSP, Spring Boot , Hibernate, SpringSecurity, JWT |
-| 🗄️ **Database** | MySQL |
-| 🧩 **Tools & Platforms** | Git, GitHub, Postman, Maven, Eclipse, VS Code |
-| 🧠 **Concepts** | Data Structures & Algorithms, OOP, Agile, Microservices |
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
+### ⚙️ Backend Technologies
+![Core Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+---
+
+### 🌐 Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+---
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-4479A1?style=for-the-badge)
+![Indexing](https://img.shields.io/badge/Indexing-4479A1?style=for-the-badge)
+
+---
+
+### 🧩 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+
+---
+
+### 🧠 Core Concepts
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections-007396?style=for-the-badge)
+![Exception Handling](https://img.shields.io/badge/Exception%20Handling-D32F2F?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-1976D2?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-388E3C?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-5C6BC0?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-6A1B9A?style=for-the-badge)
+
+---
 ## 🎓 Education
 
 🎓 **Bachelor of Engineering (CSE)**  
@@ -106,32 +150,6 @@ My focus is on writing clean, maintainable code and learning new technologies th
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit6156&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
-
-
-## 🛠️ Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
