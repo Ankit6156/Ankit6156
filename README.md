@@ -143,30 +143,6 @@ My focus is on writing clean, maintainable code and learning new technologies th
 | 🍔 Online Food Ordering System | Full-stack food ordering system with secure login, cart, and order management. Developed 8+ REST APIs and improved response time by 25%. | Java, Spring Boot, Hibernate, React.js, MySQL | [View Repo](https://github.com/Ankit6156/food-ordering-system) |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit6156&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6156&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit6156&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Coding Profiles
-
-- LeetCode: https://leetcode.com/your-username/
-- HackerRank: https://www.hackerrank.com/profile/ankitsingh834041
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
