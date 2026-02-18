@@ -109,6 +109,42 @@ My focus is on writing clean, maintainable code and learning new technologies th
 
 ---
 
+
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🛒 NexusMart – Multi-Vendor E-Commerce Platform | Full-stack multi-vendor e-commerce platform with JWT authentication, OTP verification, role-based access, and 25+ REST APIs. Improved backend performance by 20%. | Java, Spring Boot, Spring Security, JWT, React.js, MySQL | [View Repo](https://github.com/Ankit6156/nexusmart) |
+| 🍔 Online Food Ordering System | Full-stack food ordering system with secure login, cart, and order management. Developed 8+ REST APIs and improved response time by 25%. | Java, Spring Boot, Hibernate, React.js, MySQL | [View Repo](https://github.com/Ankit6156/food-ordering-system) |
+
+---
+
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
