@@ -157,7 +157,7 @@ My focus is on writing clean, maintainable code and learning new technologies th
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🛒 NexusMart – E-Commerce Platform | Full-stack e-commerce platform with JWT authentication, OTP verification and 25+ REST APIs. Improved backend performance by 20%. | Java, Spring Boot, Spring Security, JWT, React.js, MySQL | [View Repo](https://github.com/Ankit6156/nexusmart) |
+| 🛒 NexusMart – E-Commerce Platform | Full-stack e-commerce platform with JWT authentication, OTP verification and 25+ REST APIs. Improved backend performance by 20%. | Java, Spring Boot, Spring Security, JWT, React.js, MySQL | [View Repo](https://github.com/Ankit6156/nexusmart-ecommerce-platform) |
 | 🍔 Online Food Ordering System | Full-stack food ordering system with secure login, cart, and order management. Developed 10+ REST APIs and improved response time by 25%. | Java, Spring Boot, Hibernate, React.js, MySQL | [View Repo](https://github.com/Ankit6156/food-ordering-system) |
 
 ---
